@@ -17,7 +17,6 @@
     "@babel/node": "^7.10.5",
     "@babel/plugin-syntax-jsx": "^7.10.4",
     "@babel/plugin-transform-react-jsx": "^7.10.4",
-    "@babel/preset-env": "^7.11.5",
-    "babel-node": "0.0.1-security"
+    "@babel/preset-env": "^7.11.5"
   }
 }
